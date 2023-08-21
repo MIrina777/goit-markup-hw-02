@@ -56,7 +56,6 @@ ul {
 }
 .first-title {
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
@@ -85,7 +84,6 @@ ul {
 }
 .second-section-text {
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -99,7 +97,6 @@ ul {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -121,7 +118,6 @@ ul {
   color: #434455;
   text-align: center;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -129,7 +125,6 @@ ul {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -144,7 +139,6 @@ ul {
 .portf-text {
   color: #434455;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -160,6 +154,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .foot-studio {
@@ -169,7 +164,6 @@ ul {
   color: #f4f4fd;
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
